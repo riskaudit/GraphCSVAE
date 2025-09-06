@@ -1,6 +1,6 @@
 🗓️ **Last updated:** August 28, 2025 
 
-# **Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction**
+# **GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -64,4 +64,24 @@ This code depends on [MATLAB R2025b](https://uk.mathworks.com/), [QGIS 3.40.5-Br
 │       ├── OV_KL.fig
 │       └── OV_ReconLoss.fig
 └── README.md
+```
+
+## **5. Computing Infrastructure**
+We performed all experiments using a MacBook Pro (Apple M3 Max) with 48GB memory. Fortunately, our experiments did not need to use GPU. Due to ease of implementation
+and our familiarity, we used the deep learning and mapping toolboxes of MATLAB. However, other software libraries and frameworks can be used to reproduce our results.
+
+## **6. Acknowledgment**
+This work is funded by the UKRI Centre for Doctoral Training in Application of Artificial Intelligence to the study of Environmental Risks (AI4ER) (EP/S022961/1).
+
+## **7. Citation**
+
+```
+@conference{example_conference,
+  title        = {GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction},
+  author       = {Dimasaka, Joshua and Gei{\ss}, Christian and Muir-Wood, Robert and So, Emily},
+  year         = 2025,
+  month        = {October},
+  booktitle    = {Proceedings of the 8th International Disaster and Risk Conference},
+  address      = {Nicosia, Cyprus}
+}
 ```
