@@ -1,4 +1,4 @@
-🗓️ **Last updated:** August 28, 2025 
+🗓️ **Last updated:** September 6, 2025 
 
 # **GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction**
 
